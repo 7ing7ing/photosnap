@@ -12,6 +12,6 @@ Functionalities of this page:
 - CSS, HTML
 - Bootstrap
 
-:link:Link:
+:link:Link: https://7ing7ing.github.io/photosnap/
 
 -
