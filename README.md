@@ -14,4 +14,3 @@ Functionalities of this page:
 
 :link:Link: https://7ing7ing.github.io/photosnap/
 
--
